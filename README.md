@@ -1,4 +1,4 @@
 # K-Means-Clustering
 
 
-- Implementing K-Means-Clustering from scratch
+- Implementing K-Means-Clustering from scratc
